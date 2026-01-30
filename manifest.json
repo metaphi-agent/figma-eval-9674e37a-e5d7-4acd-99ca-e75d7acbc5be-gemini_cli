@@ -3,7 +3,7 @@
     "Step 1: Extract from Figma": "done",
     "Step 2: Export Ground Truth": "done",
     "Step 6: Generate Components": "done",
-    "Step 7: Deploy & Push": "in_progress"
+    "Step 7: Deploy & Push": "done"
   },
   "artifacts": {
     "figma_file_key": "XKju9KAy07CsOjPBLGHlTU",
@@ -11,6 +11,7 @@
   },
   "notes": [
     "Extracted Landing Page 1 and its mobile version.",
-    "Implemented Landing Page 1 components."
+    "Implemented Landing Page 1 components.",
+    "Pushed code to GitHub."
   ]
 }
