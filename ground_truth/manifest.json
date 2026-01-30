@@ -1,0 +1,8 @@
+{
+    "figma_file_key": "XKju9KAy07CsOjPBLGHlTU",
+    "total_frames": 2,
+    "frames": [
+        {"name": "Landing Page - 1", "node_id": "20:7570", "gt_image": "20-7570.png", "target_route": "/"},
+        {"name": "Landing Page - iPhone 14 - 1", "node_id": "352:35520", "gt_image": "352-35520.png", "target_route": "/mobile"}
+    ]
+}
